@@ -10,6 +10,13 @@ https://user-images.githubusercontent.com/120068739/208413771-589ebf2c-f704-48dc
 Buatlah program agar LED menyala ketika sensor disentuh, dan LED akan 
 mati ketika sensor tidak disentuh.
 
+
+
+
+https://user-images.githubusercontent.com/120068739/208415407-3b457438-f1e6-46b2-bf36-666fa0e3def1.mp4
+
+
+
 Buatlah program agar ketika sensor disentuh, LED menyala Blink.
 
 
