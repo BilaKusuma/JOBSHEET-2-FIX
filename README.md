@@ -7,6 +7,13 @@
 https://user-images.githubusercontent.com/120068739/208413771-589ebf2c-f704-48dc-9efa-828192dea176.mp4
 
 
+
+
+https://user-images.githubusercontent.com/120068739/208861317-828a3624-af10-45e2-9931-4a793641db91.mp4
+
+
+
+
 Buatlah program agar LED menyala ketika sensor disentuh, dan LED akan 
 mati ketika sensor tidak disentuh.
 
@@ -14,6 +21,11 @@ mati ketika sensor tidak disentuh.
 
 
 https://user-images.githubusercontent.com/120068739/208415407-3b457438-f1e6-46b2-bf36-666fa0e3def1.mp4
+
+
+
+
+https://user-images.githubusercontent.com/120068739/208861639-f79923da-a193-4511-a98f-39b412b96c0e.mp4
 
 
 
@@ -25,12 +37,26 @@ Buatlah program agar ketika sensor disentuh, LED menyala Blink.
 https://user-images.githubusercontent.com/120068739/208414005-d737b3dd-7e66-48cf-bf32-bdc79e002b38.mp4
 
 
+
+
+
+https://user-images.githubusercontent.com/120068739/208861931-abad8c0d-6c45-4a01-b84f-dca8ec0f3e59.mp4
+
+
+
 Buatlah program agar ketika LED menyala, maka pada Serial Monitor akan 
 menampilkan angka yang akan bertambah setiap kali sensor disentuh.
 
 
 
 https://user-images.githubusercontent.com/120068739/208414183-2af18c3c-fc8f-42f5-90ba-d565c23b7b21.mp4
+
+
+
+
+
+https://user-images.githubusercontent.com/120068739/208862296-0f5a557f-a34b-4be3-9809-ff1100f3469e.mp4
+
 
 
 Tambahkan 2 LED sehingga pada rangkaian terdapat 3 LED. Buatlah program agar ketika sensor disentuh, LED menyala menjadi running LED. Nyala running LED tersebut adalah bergerak dari kiri ke kanan, kemudian kanan ke kiri secara kontinyu.
