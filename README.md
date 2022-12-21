@@ -1,6 +1,6 @@
 # JOBSHEET-2-FIX
 
- ESP32 Capacitive Touch Sensor
+A. ESP32 Capacitive Touch Sensor
  
  
 
@@ -70,4 +70,48 @@ https://user-images.githubusercontent.com/120068739/208414402-4cb94aa4-a5d5-4e50
 
 
 https://user-images.githubusercontent.com/120068739/208414494-edf2eaaa-33a7-4a4a-ae72-649ab6b57d5a.mp4
+
+
+
+
+B. Mengakses Sensor DHT 11 (Single Wire / BUS)
+
+
+Buatlah program agar ketika suhu rungan mencapai 30 derajat celcius, maka ESP32 akan menyalakan LED Merah dan buzzer secara beep (blink). Apabila suhu dibawah 30 derajat, ESP32 akan mematikan buzzer dan menyalakan LED berbentuk running LED seperti pada Percobaan A. Kemudian dokumentasikan hasilnya.
+
+
+
+![WhatsApp Image 2022-12-21 at 16 05 53 (1)](https://user-images.githubusercontent.com/120068739/208881059-25ca54cd-c9ea-4b7e-9310-ea6ed7b7acbb.jpeg)
+
+
+
+
+
+https://user-images.githubusercontent.com/120068739/208881098-622e9dc7-a0ff-4e4a-8d1b-2d4f5d04d4ea.mp4
+
+
+C. Mengakses Sensor RFID (SPI Communication)
+
+Dekatkan kartu atau Tag RFID ke RFID Reader. Amati dan analisis cara kerja programnya.
+
+
+
+
+
+https://user-images.githubusercontent.com/120068739/208881411-45487739-4b7c-4d8b-b95d-7a54cf77a09a.mp4
+
+
+
+Buatlah program agar Tag RFID yang terbaca sebelumya dapat digunakan untuk hak akses. Apabila Tag RFID didekatkan pada Reader, maka LED Hijau akan menyala, servo akan bergerak ke kanan (lalu kembali ke posisi semula setelah 3 detik) dan di Serial Monitor akan tertampil pesan “Akses Diterima, Silahkan Masuk”. Apabila Tag RFID tidak dikenali, maka LED Merah akan menyala, servo tidak bergerak dan di Serial Monitor akan tertampil pesan “Akses Ditolak”. Gunakan Tag RFID lain untuk mencoba.
+
+
+
+
+https://user-images.githubusercontent.com/120068739/208881757-80f9205f-7bc1-4b27-80da-e1d45941e940.mp4
+
+
+
+
+
+https://user-images.githubusercontent.com/120068739/208881863-05b7f36d-4261-4c67-86a7-82b42685ade1.mp4
 
