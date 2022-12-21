@@ -96,6 +96,9 @@ Dekatkan kartu atau Tag RFID ke RFID Reader. Amati dan analisis cara kerja progr
 
 
 
+![image](https://user-images.githubusercontent.com/120068739/208885350-c77cfdd3-2ddc-4dbe-a570-2501df2acdd6.png)
+
+
 
 
 https://user-images.githubusercontent.com/120068739/208881411-45487739-4b7c-4d8b-b95d-7a54cf77a09a.mp4
@@ -104,6 +107,9 @@ https://user-images.githubusercontent.com/120068739/208881411-45487739-4b7c-4d8b
 
 Buatlah program agar Tag RFID yang terbaca sebelumya dapat digunakan untuk hak akses. Apabila Tag RFID didekatkan pada Reader, maka LED Hijau akan menyala, servo akan bergerak ke kanan (lalu kembali ke posisi semula setelah 3 detik) dan di Serial Monitor akan tertampil pesan “Akses Diterima, Silahkan Masuk”. Apabila Tag RFID tidak dikenali, maka LED Merah akan menyala, servo tidak bergerak dan di Serial Monitor akan tertampil pesan “Akses Ditolak”. Gunakan Tag RFID lain untuk mencoba.
 
+
+
+![image](https://user-images.githubusercontent.com/120068739/208885407-1653e60a-5363-4447-8830-18a6157478f7.png)
 
 
 
